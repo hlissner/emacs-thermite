@@ -21,7 +21,7 @@ super slow that it [murders the byte-compiler][poor-byte-compiler]. I knew
 diddly squat about E-to-the-lisp when I wrote it; now that I have 99 more bullet
 holes in my shoes, I can make that 100th count!
 
-# TODO
+**TODO:**
 
 + [X] Linear inheritance of face specs and theme palettes/logical groups.
 + [ ] Two comprehensive base themes called `doom-base-dark` and
@@ -35,14 +35,19 @@ holes in my shoes, I can make that 100th count!
 + [ ] Commands for generating color schemes based on a variety of sources:
   pywal, images, etc.
 
-# Table of Contents
 
-- [Features](#features)
+**Table of Contents**
+
 - [Install](#install)
-- [Common Issues](#common-issues)
-- [Contribute](#contribute)
+- [Documentation](#documentation)
+    - [Writing a theme](#writing-a-theme)
+    - [Exporting a theme to ...](#exporting-a-theme-to-)
+    - [Importing a theme from ...](#importing-a-theme-from-)
+    - [Generating themes](#generating-themes)
+- [Contributing](#contributing)
+- [Similar/related projects](#similarrelated-projects)
 
-## Install
+# Install
 
 This package ~~is~~ will be available on MELPA:
 
@@ -72,30 +77,27 @@ package, and require `doom-themer-base` (if you are extending from it):
   ...)
 ```
 
-## Writing a theme
 
+# Documentation
+
+## Writing a theme
 ...
 
 
 ## Exporting a theme to ...
-
 ...
 
 
 ## Importing a theme from ...
-
 ...
 
 ## Generating themes
-
 ...
 
 # Contributing
-
 ...
 
 # Similar/related projects
-
 - doom-themes
 - autothemr
 
