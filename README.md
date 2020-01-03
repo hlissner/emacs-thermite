@@ -78,3 +78,8 @@ package, and require `doom-themer-base` (if you are extending from it):
 # Contributing
 
 ...
+
+# Similar/related projects
+
+- doom-themes
+- autothemr
