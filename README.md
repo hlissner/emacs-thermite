@@ -26,6 +26,8 @@ holes in my shoes, I can make that 100th count!
 + [X] Linear inheritance of face specs and theme palettes/logical groups.
 + [ ] Two comprehensive base themes called `doom-base-dark` and
   `doom-base-light` with coverage for 100+ packages and counting.
++ [ ] A comprehensive and stable list of logical groups for our two base themes
+  to define, to categorize all UI/syntax/semantic elements under.
 + [X] A secondary library of helper functions for fetching information about the
   current theme, like color information.
 + [ ] An elisp-based import/export mechanism for getting your doom themes out
