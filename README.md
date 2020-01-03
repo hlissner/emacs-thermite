@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/hlissner/emacs-doom-themes.svg?branch=master&style=flat-square)](https://travis-ci.org/hlissner/emacs-doom-themes)
 [![MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](./LICENSE)
 
+> **This project is a work-in-progress and should not be used yet.**
+
 # doom-themer
 
 doom-themer makes writing themes for GNU Emacs easier. How? With theme
