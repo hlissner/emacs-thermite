@@ -7,9 +7,19 @@
 
 # doom-themer
 
-doom-themer makes writing themes for GNU Emacs easier. How? With theme
-inheritance, abstracting colors and styles behind logical groups, and sane
-defaults for over 100 packages and counting.
+doom-themer makes writing themes for GNU Emacs easier.
+
+**How?** With theme inheritance, abstracting colors and styles behind logical
+groups, and sane base themes that cover over 100 packages and counting that
+folks can extend for their own themes. And users can extend *those* after that.
+
+**Why?** Because writing themes for Emacs is a hassle. Every theme needs to
+reinvent the wheel to cover all them packages. 
+
+I wrote this to replace the "API" [doom-themes] currently uses, which is so
+super slow that it [murders the byte-compiler][poor-byte-compiler]. I knew
+diddly squat about E-to-the-lisp when I wrote it; now that I have 99 more bullet
+holes in my shoes, I can make that 100th count!
 
 # TODO
 
@@ -86,3 +96,7 @@ package, and require `doom-themer-base` (if you are extending from it):
 
 - doom-themes
 - autothemr
+
+
+[doom-themes]: https://github.com/hlissner/emacs-doom-themes
+[poor-byte-compiler]: https://github.com/hlissner/emacs-doom-themes/issues/314
