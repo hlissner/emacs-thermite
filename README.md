@@ -1,6 +1,6 @@
-![Release tag](https://img.shields.io/github/tag/hlissner/emacs-doom-themes.svg?label=release&style=flat-square)
-[![MELPA](http://melpa.org/packages/doom-themes-badge.svg?style=flat-square)](http://melpa.org/#/doom-themes)
-[![Build Status](https://travis-ci.org/hlissner/emacs-doom-themes.svg?branch=master&style=flat-square)](https://travis-ci.org/hlissner/emacs-doom-themes)
+![Release tag](https://img.shields.io/github/tag/hlissner/emacs-doom-themer.svg?label=release&style=flat-square)
+[![MELPA](http://melpa.org/packages/doom-themer-badge.svg?style=flat-square)](http://melpa.org/#/doom-themer)
+[![Build Status](https://travis-ci.org/hlissner/emacs-doom-themer.svg?branch=master&style=flat-square)](https://travis-ci.org/hlissner/emacs-doom-themer)
 [![MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](./LICENSE)
 
 > **This project is a work-in-progress and should not be used yet.**
