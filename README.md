@@ -5,20 +5,21 @@
 
 # doom-themer
 
-doom-themer is a library for writing themes for GNU Emacs! Why? Because writing
-themes for Emacs is such a hassle and it shouldn't have to be.
+doom-themer makes writing themes for GNU Emacs easier. How? With theme
+inheritance, abstracting colors and styles behind logical groups, and sane
+defaults for over 100 packages and counting.
 
-This library provides:
+# TODO
 
-+ Linear inheritance of face specs and the palette (variables)
-+ Two comprehensive base themes called `doom-base-dark` and `doom-base-light`
-  with coverage for 100+ packages and counting
-+ An elisp-based import/export mechanism for getting your doom themes out into
-  your favorite apps and back. No external dependencies required!
-+ A secondary library of helper functions for fetching information about the
++ [X] Linear inheritance of face specs and theme palettes/logical groups.
++ [ ] Two comprehensive base themes called `doom-base-dark` and
+  `doom-base-light` with coverage for 100+ packages and counting.
++ [X] A secondary library of helper functions for fetching information about the
   current theme, like color information.
-+ Commands for generating color schemes based on a variety of sources: pywal,
-  images, etc.
++ [ ] An elisp-based import/export mechanism for getting your doom themes out
+  into your favorite apps and back. No external dependencies required!
++ [ ] Commands for generating color schemes based on a variety of sources:
+  pywal, images, etc.
 
 # Table of Contents
 
