@@ -66,7 +66,7 @@ package, and require `doom-themer-base` (if you are extending from it):
 (eval-and-compile
   (require 'doom-themer-base))
   
-(define-doom-theme my-theme
+(define-doom-theme (my-theme :extend doom-base-dark)
   ...)
 ```
 
